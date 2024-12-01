@@ -12,7 +12,7 @@ Solutions provided in the following languages:
 
 | Language | Part 1 Solution                             | Part 2 Solution                             |
 |----------|--------------------------------------------|---------------------------------------------|
-| **C++**  | [✔ Completed](day1/c++/part1/day1.cpp)     | [✔ Completed](day1/c++/part2/day1.cpp)      |
-| **Python** | [✔ Completed](day1/python/part1/day1.py)  | [✔ Completed](day1/python/part2/day1.py)   |
+| **C++**  | [✔ Completed](day1/c++/part1/day1.cpp)     | [✔ Completed](day1/c++/part2/day1_2.cpp)      |
+| **Python** | [✔ Completed](day1/python/part1/day1.py)  | [✔ Completed](day1/python/part2/day1_2.py)   |
 
 
