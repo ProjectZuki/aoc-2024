@@ -8,7 +8,7 @@ Solutions provided in the following languages:
 
 - [Day 1](#day-1)
 
-## Day 1 - (View Problem)[https://adventofcode.com/2024/day/1]
+## Day 1 - [View Problem](https://adventofcode.com/2024/day/1)
 
 | Language | Part 1 Solution                             | Part 2 Solution                             |
 |----------|--------------------------------------------|---------------------------------------------|
