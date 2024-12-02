@@ -1,4 +1,4 @@
-# Advent of Code 2024
+# [Advent of Code 2024](https://adventofcode.com/2024)
 
 Solutions provided in the following languages:
 - c++
@@ -8,11 +8,11 @@ Solutions provided in the following languages:
 
 - [Day 1](#day-1)
 
-## Day 1
+## Day 1 - [View Problem](https://adventofcode.com/2024/day/1)
 
 | Language | Part 1 Solution                             | Part 2 Solution                             |
 |----------|--------------------------------------------|---------------------------------------------|
-| **C++**  | [✔ Completed](day1/c++/part1/day1.cpp)     | [✔ Completed](day1/c++/part2/day1.cpp)      |
-| **Python** | [✔ Completed](day1/python/part1/day1.py)  | [✔ Completed](day1/python/part2/day1.py)   |
+| **C++**  | [✔ Completed](day1/c++/part1/day1.cpp)     | [✔ Completed](day1/c++/part2/day1_2.cpp)      |
+| **Python** | [✔ Completed](day1/python/part1/day1.py)  | [✔ Completed](day1/python/part2/day1_2.py)   |
 
 
