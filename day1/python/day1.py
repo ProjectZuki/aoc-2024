@@ -16,7 +16,7 @@ def main():
         val1 val2
 
     Usage:
-        $ day1.py < input.txt
+        $ day1.py < ../input.txt
 
     Example Input:
         3   4
