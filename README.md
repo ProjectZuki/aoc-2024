@@ -8,6 +8,7 @@ Solutions provided in the following languages:
 
 - [Day 1](#day-1---view-problem)
 - [Day 2](#day-2---view-problem)
+- [Day 3](#day-3---view-problem)
 
 ## Day 1 - [View Problem](https://adventofcode.com/2024/day/1)
 
@@ -23,3 +24,9 @@ Solutions provided in the following languages:
 | **C++**  | [✔ Completed](day2/c++/day2.cpp)     | [✔ Completed](day2/c++/day2_2.cpp)      |
 | **Python** | [✔ Completed](day2/python/day2.py)  | [✔ Completed](day2/python/day2_2.py)   |
 
+## Day 3 - [View Problem](https://adventofcode.com/2024/day/3)
+
+| Language | Part 1 Solution                             | Part 2 Solution                             |
+|----------|--------------------------------------------|---------------------------------------------|
+| **C++**  | [✔ Completed](day3/c++/day3.cpp)     |      |
+| **Python** |  | |
